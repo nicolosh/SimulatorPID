@@ -1,0 +1,3 @@
+/cygdrive/c/Users/nicol/OneDrive/Desktop/C++/log_data/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/nicol/OneDrive/Desktop/C++/log_data/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/nicol/OneDrive/Desktop/C++/log_data/cmake-build-debug/CMakeFiles/log_data.dir
